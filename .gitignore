@@ -1,0 +1,14 @@
+.vs/
+Library/
+obj/
+Packages/
+ProjectSettings/
+Temp/
+Assets/TextMesh Pro/
+Assets/Images
+Assets/Scenes
+Assets/Fonts
+
+*.sln
+*.csproj
+*.meta
